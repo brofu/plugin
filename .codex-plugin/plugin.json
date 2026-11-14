@@ -1,0 +1,16 @@
+{
+  "name": "brofu",
+  "version": "0.1.0",
+  "description": "Personal agent skills for Claude Code and Codex.",
+  "author": {
+    "name": "brofu"
+  },
+  "homepage": "https://github.com/brofu/plugin",
+  "skills": "./skills",
+  "interface": {
+    "displayName": "brofu",
+    "shortDescription": "Personal agent skills",
+    "developerName": "brofu",
+    "category": "Productivity"
+  }
+}

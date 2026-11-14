@@ -1,0 +1,10 @@
+{
+  "name": "brofu",
+  "version": "0.1.0",
+  "description": "Personal agent skills for Claude Code and Codex.",
+  "author": {
+    "name": "brofu"
+  },
+  "repository": "https://github.com/brofu/plugin",
+  "license": "MIT"
+}

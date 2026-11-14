@@ -1,0 +1,14 @@
+{
+  "name": "brofu",
+  "description": "Personal agent skills for Claude Code and Codex.",
+  "owner": {
+    "name": "brofu"
+  },
+  "plugins": [
+    {
+      "name": "brofu",
+      "source": "./",
+      "description": "Personal agent skills for Claude Code and Codex."
+    }
+  ]
+}
